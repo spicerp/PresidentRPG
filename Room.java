@@ -3,7 +3,7 @@
  * Code Completed 5/1/2023
  * ----------------------
  * Section Information:
- * CPSC 1060 - Section: M W F @ 2:25 PM
+ * CPSC 1060 - Section: M W F @ 1:25 PM
  * CPSC 1061 Section: T T @ 2:00 PM
  * ----------------------
  * Room.java File
