@@ -1,0 +1,48 @@
+Infrastructure Bill;A bill to improve infrastructure;1
+Anti-Environment Bill;A bill that harms the environment;0
+Education Investment Bill; A bill to increase funding for education; 1
+Small Business Support Bill; A bill to provide tax breaks and funding for small businesses; 1
+Healthcare Access Bill; A bill to increase access to affordable healthcare; 1
+Renewable Energy Expansion Bill; A bill to encourage the expansion of renewable energy; 1
+Criminal Justice Reform Bill; A bill to reform the criminal justice system; 1
+Mental Health Support Bill; A bill to increase funding for mental health services; 1
+Consumer Protection Bill; A bill to protect consumers from fraudulent business practices; 1
+Domestic Violence Prevention Bill; A bill to increase support for domestic violence victims and prevention; 1
+Cybersecurity Enhancement Bill; A bill to improve national cybersecurity infrastructure; 1
+Animal Welfare Bill; A bill to protect animal rights and prevent animal cruelty; 1
+Affordable Housing Bill; A bill to increase access to affordable housing; 1
+Universal Basic Income Bill; A bill to provide a guaranteed income for all citizens; 1
+Public Transportation Expansion Bill; A bill to expand public transportation infrastructure; 1
+Arts and Culture Promotion Bill; A bill to increase funding for arts and culture programs; 1
+Disability Rights Bill; A bill to protect the rights of people with disabilities; 1
+Childcare Assistance Bill; A bill to provide affordable childcare options for families; 1
+Immigration Reform Bill; A bill to reform the immigration system; 1
+Gun Control Bill; A bill to strengthen gun control laws and reduce gun violence; 1
+Net Neutrality Protection Bill; A bill to protect net neutrality and prevent internet service providers from discriminating against certain websites or services; 1
+International Aid Bill; A bill to provide aid to foreign countries in need; 1
+Voting Rights Protection Bill; A bill to protect voting rights and prevent voter suppression; 1
+Environmental Protection Bill; A bill to protect the environment and combat climate change; 1
+Space Exploration Bill; A bill to increase funding for space exploration and research; 1
+Deregulation Bill; A bill to remove regulations on businesses, potentially harming consumer and worker protections; 0
+Fossil Fuel Subsidy Bill; A bill to provide subsidies for the fossil fuel industry, which can harm the environment and contribute to climate change; 0
+Privatization Bill; A bill to privatize public services, potentially leading to higher costs for consumers and reduced quality of services; 0
+Discrimination Bill; A bill to allow discrimination against certain groups of people, such as based on race, gender, or religion; 0
+Censorship Bill; A bill to restrict free speech or limit access to information, potentially harming democracy and individual liberties; 0
+Austerity Bill; A bill to cut government spending, potentially harming social programs and public services; 0
+Military Spending Increase Bill; A bill to increase military spending, potentially diverting funds away from other important areas such as education and healthcare; 0
+Healthcare Privatization Bill; A bill to privatize healthcare, potentially making it more expensive and less accessible for people; 0
+Anti-Worker Bill; A bill to weaken labor protections and rights, potentially leading to exploitation and mistreatment of workers; 0
+Education Cuts Bill; A bill to cut funding for education, potentially harming the quality of education and opportunities for students; 0
+Anti-Immigration Bill; A bill to restrict immigration or harm immigrant communities, potentially damaging social cohesion and economic growth; 0
+Anti-Environmental Protection Bill; A bill to weaken or repeal environmental protections, potentially harming the environment and public health; 0
+Tax Increase Bill; A bill to increase taxes, potentially reducing economic growth and limiting personal financial resources; 0
+Healthcare Mandate Bill; A bill to require individuals to purchase healthcare coverage, potentially limiting individual freedoms and imposing financial burdens; 0
+Nuclear Weapons Development Bill; A bill to develop new nuclear weapons, potentially increasing global tensions and the risk of nuclear war; 0
+Military Expansion Bill; A bill to increase military spending and expand the armed forces, potentially diverting funds away from social programs and public services; 0
+Property Development Bill; A bill to allow unchecked property development, potentially harming the environment and reducing natural resources; 0
+Corporate Tax Cut Bill; A bill to provide tax cuts for corporations, potentially increasing income inequality and reducing funding for public services; 0
+Education Privatization Bill; A bill to privatize education, potentially reducing access to quality education and increasing costs for families; 0
+Labor Union Restrictions Bill; A bill to restrict labor unions, potentially limiting worker rights and reducing collective bargaining power; 0
+Domestic Surveillance Restrictions Bill; A bill to restrict domestic surveillance, potentially limiting government intelligence gathering capabilities and hindering national security efforts; 0
+Animal Agriculture Expansion Bill; A bill to expand animal agriculture, potentially harming the environment and increasing animal cruelty; 0
+Industrial Pollution Expansion Bill; A bill to expand industrial pollution, potentially harming public health and the environment; 0
