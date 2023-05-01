@@ -25,7 +25,7 @@ public class Map {
 
     public Map() {
         rooms = new ArrayList<>();
-        loadMap("C:\\Java\\Project\\RPG Game\\DungeonGame\\src\\map.txt"); // specific to files (change accordingly)
+        loadMap("map.txt"); // specific to files (change accordingly)
         currentRow = 1;
         currentCol = 2;
 
