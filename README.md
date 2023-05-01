@@ -1,2 +1,2 @@
 # PresidentRPG
-Presidential RPG for Intro to Java Class
+Presidential RPG Project for Intro to Java Class
