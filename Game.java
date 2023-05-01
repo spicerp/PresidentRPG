@@ -145,7 +145,7 @@ public class Game {
 
     private void loadBills() {
         try {
-            File file = new File("C:\\Java\\Project\\RPG Game\\DungeonGame\\src\\bills.txt"); // specific to files (change accordingly)
+            File file = new File("bills.txt"); // specific to files (change accordingly)
             Scanner scanner = new Scanner(file);
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
