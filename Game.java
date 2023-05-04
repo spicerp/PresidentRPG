@@ -8,6 +8,10 @@
  * ----------------------
  * Game.java File
  * ----------------------
+ * GitHub Repository
+ * ----------------------
+ * https://github.com/spicerp/PresidentRPG
+ * ----------------------
  */
 
  // EXPLANATION
