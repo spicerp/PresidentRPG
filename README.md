@@ -12,3 +12,6 @@ You can use these hard earned points at the cafeteria, in which you will interac
 She will provide you a menu in which you can spend on food.
 
 You can walk around the map, and explore, this game can definitely eventually be developed even more.
+
+NOTE: You might have to adjust where the code calls the txt files:
+In the map and game Java files specifically.
